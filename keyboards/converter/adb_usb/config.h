@@ -40,3 +40,6 @@ Ported to QMK by Peter Roe <pete@13bit.me>
 #define ADB_DDR         DDRD
 #define ADB_DATA_BIT    0
 //#define ADB_PSW_BIT     1       // optional
+
+/* VIA settings */
+#define DYNAMIC_KEYMAP_LAYER_COUNT 3
